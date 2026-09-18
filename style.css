@@ -1,0 +1,125 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  background: var(--accents-mint, #00c8b3);
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-3 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1500px;
+  position: absolute;
+  left: 125px;
+  top: 18px;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 289px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 133px;
+  position: relative;
+}
+.aissatou-bah {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+  width: 302px;
+  height: 133px;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+  width: 213px;
+  height: 83px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+  width: 387px;
+  height: 76px;
+}
+.let-s-create-a-website-design {
+  color: #ffffff;
+  text-align: center;
+  position: absolute;
+  left: 203px;
+  top: 285px;
+  width: 1069px;
+  height: 186px;
+}
+.let-s-create-a-website-design-span {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+}
+.let-s-create-a-website-design-span2 {
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+.today-let-s-create-a-sample-website-design-in-figma-and-export-its-corresponding-html-and-css-code {
+  color: #ffffff;
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 238px;
+  top: 441px;
+  width: 967px;
+  height: 331px;
+}
+.today-let-s-create-a-sample-website-design-in-figma-and-export-its-corresponding-html-and-css-code-span {
+  font-family: "Montserrat-Regular", sans-serif;
+}
+.today-let-s-create-a-sample-website-design-in-figma-and-export-its-corresponding-html-and-css-code-span2 {
+  font-family: "Inter-Regular", sans-serif;
+}
+.rectangle-1 {
+  background: #a8ff35;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 180px;
+  height: 57px;
+  position: absolute;
+  left: 602px;
+  top: 690px;
+}
+.get-started {
+  color: var(--labels-vibrant-primary, #1a1a1a);
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 589px;
+  top: 702px;
+  width: 205px;
+  height: 45px;
+  -webkit-text-stroke: 1px #000000;
+}
